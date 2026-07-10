@@ -32,7 +32,7 @@
     "http-status-codes": "^2.3.0",
     "log4js": "latest",
     "module-alias": "^2.2.2",
-    "morgan": "~1.9.1",
+    "morgan": "~1.11.0",
     "node-html-parser": "^6.1.10",
     "puppeteer": "^21.3.8",
     "rimraf": "^3.0.2",
